@@ -1,2 +1,2 @@
 # jsa-stacks
-stack implementations in various languages
+basic stack implementations in various languages. In an interview scenario it may come off stronger to be able to implement a stack which can dynamically grow and handle any number of items. This can be implemented atop a linked list or other dynamically expandable structure. JavaScript's Array object is essentially comparable to Java's linked list, Vector, or ArrayList objects. In most languages an array is traditionally NOT dynamically resizeable.
